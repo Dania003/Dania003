@@ -1,4 +1,8 @@
 ## Hi there 👋
+![Header](./github-header-image (4).png)
+
+I am a 4th year computer engineering student at uWaterloo with various projects that showcase my skills!
+
 
 <!--
 **Dania003/Dania003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
