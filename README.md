@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./github-header-image (4).png)
+![Header](./header.png)
 
 I am a 4th year computer engineering student at uWaterloo with various projects that showcase my skills!
 
