@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a computer engineering student at UWaterloo with various projects that showcase my skills!
+My name is Dania  :) I am a computer engineering student at UWaterloo with various projects that showcase my skills!
 
 
 <!--
