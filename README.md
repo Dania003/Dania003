@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a 4th year computer engineering student at uWaterloo with various projects that showcase my skills!
+I am a computer engineering student at UWaterloo with various projects that showcase my skills!
 
 
 <!--
